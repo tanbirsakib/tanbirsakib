@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tanbir Sakib
 #### Web Developer
-
+![Profile views](https://gpvc.arturio.dev/tanbirsakib)  
 A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.
 
 Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind / Firebase
@@ -16,4 +16,4 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind / Firebase
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanbirsakib&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/tanbirsakib)  
+
