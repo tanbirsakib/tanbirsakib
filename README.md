@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Tanbir Sakib
 #### Web Developer
-![Web Developer](https://i.ibb.co/wy4T2LF/tanbirsakib-min.jpg)
 
 A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.
 
