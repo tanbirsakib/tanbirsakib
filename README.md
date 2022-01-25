@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanbir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanbirsakib&label=Profile%20views&color=0e75b6&style=flat" alt="tanbirsakib" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanbirsakib" alt="tanbirsakib" /></a> </p>
-
 - 🔭 I’ve recently worked on [Health Freak](https://github.com/tanbirsakib/health-care-service)
 
 - 🌱 I’m currently learning **Firebase, Tailwind CSS, MongoDB,**
