@@ -3,7 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/tanbirsakib)  
 A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.
 
-Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind / Firebase
+##Skills: 
+REACT / JS / HTML / CSS / Bootstrap / Tailwind / Firebase
 
 - 🌱 I’m currently learning Firebase, Tailwind CSS, MongoDB 
 - 💬 Ask me about JavaScript, React, HTML, CSS, Git 
