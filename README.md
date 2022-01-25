@@ -14,6 +14,6 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind / Firebase
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanbirsakib)](https://github.com/anuraghazra/github-readme-stats&count_private=true&theme=aura&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanbirsakib&&count_private=true&theme=aura&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanbirsakib&&count_private=true&theme=buefy&show_icons=true)  
 
 
