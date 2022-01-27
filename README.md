@@ -4,7 +4,7 @@
 A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.
 
 
-SKills | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+SKills | |  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | #3 | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 tools | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
