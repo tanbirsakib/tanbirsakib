@@ -2,9 +2,9 @@
 #### Web Developer
 ![Profile views](https://gpvc.arturio.dev/tanbirsakib)  
 A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+| #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+| 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 - 🌱 I’m currently learning Firebase, Tailwind CSS, MongoDB 
