@@ -3,7 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/tanbirsakib)  
 A passionate frontend developer from Bangladesh. I love to build UI and love to learn new technologies.
 
-<h2 style="color: red">Front end freak</h2>
 - 🌱 I’m currently learning Firebase, Tailwind CSS, MongoDB 
 - 💬 Ask me about JavaScript, React, HTML, CSS, Git 
 - 📫 How to reach me: tanbisakib@gmail.com 
